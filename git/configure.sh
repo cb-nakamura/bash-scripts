@@ -3,7 +3,7 @@ git config --global user.name "Tadashi Nakamura"
 # メールアドレス
 git config --global user.email tds.nakamura@gmail.com
 # 色設定
-git config --global color.ui=auto
+git config --global color.ui auto
 
 git config --global alias.co checkout
 git config --global alias.ci commit
