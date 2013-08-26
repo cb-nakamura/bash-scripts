@@ -10,5 +10,5 @@ for SERVER in $SERVERS; do
 	expect 'password:'
 	send PASSWORD\r
 	interact
-    "
+	"
 done;
